@@ -4,6 +4,7 @@ import './App.css';
 export default function App() {
   return ( 
   <div className="App">
+    <div className="container">
     <h1> 
       Weather App
     </h1>
@@ -14,6 +15,7 @@ export default function App() {
        Olha Zen  </a> {" "} and is{" "}
   <a href="https://github.com/olhazen/react-weather-app" target="_blank">open-sourced on GitHub </a>
   </footer>
+  </div>
   </div>
   );
 }
