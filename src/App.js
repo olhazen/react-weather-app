@@ -12,12 +12,12 @@ export default function App() {
     <footer>
       This project was coded by{" "}
       <a href="https://olhasi.wixsite.com/my-site" 
-      target="_blank">
+      target="_blank" rel="noopener noreferrer">
        Olha Zen  
        </a> {" "} 
        and is{" "}
-  <a href="https://github.com/olhazen/react-weather-app" target="_blank">open-sourced on GitHub </a> and is{" "}
-  <a href="https://quiet-babka-4e0e23.netlify.app/" target="_blank">hosted on Netlify 
+  <a href="https://github.com/olhazen/react-weather-app" target="_blank" rel="noopener noreferrer">open-sourced on GitHub </a> and is{" "}
+  <a href="https://quiet-babka-4e0e23.netlify.app/" target="_blank" rel="noopener noreferrer">hosted on Netlify 
   </a>
   </footer>
   </div>
