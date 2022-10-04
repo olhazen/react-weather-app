@@ -17,7 +17,7 @@ export default function App() {
        </a> {" "} 
        and is{" "}
   <a href="https://github.com/olhazen/react-weather-app" target="_blank" rel="noopener noreferrer">open-sourced on GitHub </a> and is{" "}
-  <a href="https://quiet-babka-4e0e23.netlify.app/" target="_blank" rel="noopener noreferrer">hosted on Netlify 
+  <a href="https://sparkling-treacle-e037a9.netlify.app/" target="_blank" rel="noopener noreferrer">hosted on Netlify 
   </a>
   </footer>
   </div>
