@@ -7,11 +7,11 @@ export default function App() {
   return ( 
   <div className="App">
     <div className="container">
-    <Weather defaultCity="New York" />
+    <Weather defaultCity="London" />
 
     <footer>
       This project was coded by{" "}
-      <a href="https://olhasi.wixsite.com/my-site" 
+      <a href="https://olhazen-front-end-developer.netlify.app/" 
       target="_blank" rel="noopener noreferrer">
        Olha Zen  
        </a> {" "} 

@@ -3,7 +3,7 @@
     border: 8px solid #ebf5a6;
     padding: 16px;
     border-radius: 12px;
-    color: green;
+    color: #198754;
     background: radial-gradient(
       circle at 74.2% 50.9%,
       rgb(178, 246, 148) 5.2%,
@@ -32,7 +32,7 @@
   
   .Weather .temperature {
     font-weight: bold;
-    color: green;
+    color: #198754;
     font-size: 64px;
     line-height: 64px;
     margin-left: 5px;
@@ -45,7 +45,7 @@
   }
   
   .Weather .unit {
-    color: green;
+    color: #198754;
     font-size: 16px;
     font-weight: 400;
     position: relative;
